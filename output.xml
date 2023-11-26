@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties Example</comment>
+<entry key="/notice">/notice/noticeView.jsp</entry>
+<entry key="/member">/member/memberFrom.jsp</entry>
+<entry key="/">/index.jsp</entry>
+<entry key="/boardList">/board/boardList.jsp</entry>
+</properties>
